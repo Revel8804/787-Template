@@ -1,2 +1,6 @@
-# Google App Engine generated folder
-appengine-generated/
+*.blend1
+/*.exe
+/__pycache__
+/output
+/file_version_info.txt
+*.blend
